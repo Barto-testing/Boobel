@@ -1,29 +1,26 @@
 ---
 layout: default
-title: O mnie
+title: Więcej o naszych torebkach
 ---
 
-# O mnie
+# Więcej o naszych torebkach
 
-Cześć! Nazywam się Bartek i jestem fanem podróży po krainach wyobraźni oraz mistrzem tworzenia stron internetowych, które nie mają większego sensu. Moim ulubionym zajęciem jest wpatrywanie się w ekran komputera przez wiele godzin, próbując zrozumieć, dlaczego coś nie działa.
+Ręcznie robione torebki Boobel to wyjątkowe dzieła sztuki, zaprojektowane z myślą o kobietach, które cenią sobie unikalność i styl. Każda torebka jest starannie wykonana, dbając o najdrobniejsze detale – od wyboru tkanin po subtelne wykończenia. Są nie tylko eleganckie, ale również praktyczne i trwałe, dzięki czemu doskonale sprawdzą się w codziennym życiu.
 
-## Zainteresowania
+Każda kolekcja torebek jest wynikiem pasji i kreatywności Vanessy, założycielki marki Boobel, której projektowanie to nie tylko praca, ale prawdziwe powołanie.
 
-- **Nauka o ludziach, którzy jedzą pizzę** – Fascynuje mnie, jak jedzenie pizzy wpływa na myślenie kreatywne.
-- **Sztuka przypadkowego klikania** – Wierzę, że poprzez przypadkowe klikanie można odkryć nowe rzeczy w komputerze.
-- **Kawa o smaku kawy** – Nigdy nie odmówię filiżanki kawy, która smakuje jak... kawa!
+## Dlaczego warto wybrać torebki Boobel?
 
-## Misja
+- **Unikalność**: Każda torebka jest tworzona w ograniczonej liczbie egzemplarzy, co sprawia, że posiadasz coś wyjątkowego.
+- **Jakość**: Wykorzystujemy tylko najlepsze materiały, aby nasze torebki były nie tylko piękne, ale również trwałe.
+- **Pasja**: W każdej torebce widać miłość do detali i modowych trendów, które podążają za nowoczesnym stylem.
 
-Moim celem jest zdobycie wiedzy o rzeczach, które nie mają praktycznego zastosowania w życiu codziennym. Lubię spędzać czas na analizie memów internetowych i zgłębianiu tajemnic wieloświata przy pomocy zwykłej klawiatury.
+## O Vanessie
 
-## Kontakt
+Vanessa, założycielka marki Boobel, to nie tylko utalentowana projektantka, ale także kobieta pełna wdzięku i uroku. Jej naturalne piękno oraz niesamowity zmysł artystyczny sprawiają, że każdy projekt wychodzący spod jej ręki ma w sobie coś magicznego. Vanessa inspiruje się naturą, sztuką i podróżami, co widać w każdej kolekcji, którą tworzy.
 
-Jeśli masz ochotę porozmawiać o świecie, który istnieje tylko w Twojej głowie, śmiało napisz do mnie na [email@example.com](mailto:email@example.com).
+Jej piękno i elegancja doskonale oddają ducha marki Boobel – jest to połączenie klasy, indywidualizmu i unikalnego stylu.
 
-## Moje ulubione cytaty
+---
 
-> "Życie to pasmo błędów, a ja jestem mistrzem tego pasma."  
-> – Boobel
-
-![Obrazek o mnie](https://via.placeholder.com/300)
+Zapraszamy do obejrzenia naszej najnowszej kolekcji torebek, która z pewnością podbije Twoje serce!
