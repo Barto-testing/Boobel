@@ -8,7 +8,7 @@ layout: default
 
 <style>
 body {
-    background-color: 	#FFCCFF;
+    background-color: 	
     font-family: 'Arial', sans-serif;
 }
 
