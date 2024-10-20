@@ -6,7 +6,7 @@ layout: default
 
 <style>
 body {
-    background-color: blue;
+    background-color: 	FFCCFF;
     font-family: 'Arial', sans-serif;
 }
 
