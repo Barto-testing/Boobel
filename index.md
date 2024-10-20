@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Boobel!
+# Boobel
 
 
 
@@ -41,7 +41,6 @@ Każdy produkt jest nie tylko praktyczny, ale również opowiada historię – o
 - [Śledzić nas w mediach społecznościowych](https://www.instagram.com/boobelbyvanessa/?locale=es_ES)
 
 ## Kontakt
-Skontaktuj się z nami na [boobel@example.com](mailto:boobel@example.com).
+Skontaktuj się z nami na [boobelbyvanessa@gmail.com](mailto:boobelbyvanessa@gmail.com).
 
-![Obrazek](https://via.placeholder.com/150)
 
