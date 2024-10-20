@@ -5,6 +5,8 @@ url: "https://barto-testing.github.io/Boobel/"
 
 theme: jekyll-theme-cayman
 
+sass:
+  sass_dir: jekyll-theme-cayman.scss
 
 seo:
   title: "Boobel"
