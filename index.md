@@ -36,6 +36,12 @@ Każdy produkt jest nie tylko praktyczny, ale również opowiada historię – o
 
 ![Obrazek](Image.png)
 
+## Kolekcja
+
+- **Torebka 1** - [Kup teraz](#)
+- **Torebka 2** - [Kup teraz](#)
+- **Torebka 3** - [Kup teraz](#)
+
 ## Co możesz zrobić:
 - [Przeczytać więcej o założycielce](more.md)
 - [Śledzić nas w mediach społecznościowych](https://www.instagram.com/boobelbyvanessa/?locale=es_ES)
