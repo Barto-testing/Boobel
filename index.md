@@ -3,11 +3,7 @@ layout: default
 ---
 
 # Boobel!
-<style>
-  .github-repo {
-    display: none;
-  }
-</style>
+
 
 
 <style>
