@@ -11,12 +11,12 @@ h1 {
 </style>
 
 ## O projekcie
-Boobel jest świerzą marką tworzoną przez pełną untuzjazmu młodą kobietę o imieniu Vanessa.
+Boobel jest marką tworzoną przez pełną uentuzjazmu młodą kobietę o imieniu Vanessa.
 
 ## Co możesz zrobić:
-- Przeczytać więcej o projekcie.
-- Śledzić nas w mediach społecznościowych.
-- Dołączyć do naszej społeczności.
+- Przeczytać więcej o projekcie. (more.md)
+- Śledzić nas w mediach społecznościowych. (https://www.instagram.com/boobelbyvanessa/?locale=es_ES)
+
 
 ## Kontakt
 Skontaktuj się z nami na [boobel@example.com](mailto:email@example.com).
@@ -25,7 +25,7 @@ Skontaktuj się z nami na [boobel@example.com](mailto:email@example.com).
 
 <style>
 body {
-    background-color: #f0f8ff;
+    background-color: blue;
     font-family: 'Arial', sans-serif;
 }
 
