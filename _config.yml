@@ -1,6 +1,13 @@
 title: Boobel
+description: "Strona z ręcznie robionymi torebkami Boobel"
+baseurl: "" 
+url: "https://barto-testing.github.io/Boobel/"
 
 theme: jekyll-theme-cayman
 
-repository: false
 
+seo:
+  title: "Boobel"
+  description: "Unikalne ręcznie robione torebki od Vanessy."
+  keywords: "torebki, ręcznie robione, unikalne"
+  author: "Vanessa"
