@@ -42,3 +42,9 @@ Każdy produkt jest nie tylko praktyczny, ale również opowiada historię – o
 Skontaktuj się z nami na [boobel@example.com](mailto:boobel@example.com).
 
 ![Obrazek](https://via.placeholder.com/150)
+
+<style>
+  .github-repo {
+    display: none;
+  }
+</style>
