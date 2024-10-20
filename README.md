@@ -10,7 +10,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            height: 200vh;
         }
         h1 {
             color: #FF69B4
@@ -18,6 +18,6 @@
     </style>
 </head>
 <body>
-    <h1>Cześć, pod tym adresem będzie znajdować się strona Boobel.</h1>
+    <h1>Boobel.</h1>
 </body>
 </html>
