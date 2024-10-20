@@ -32,7 +32,7 @@ Poniżej można zobaczyć przykładowe produkcje, które oddają pasję i dbało
 
 Każdy produkt jest nie tylko praktyczny, ale również opowiada historię – od inspiracji po gotowy projekt, który możesz mieć na wyciągnięcie ręki.
 
-![Obrazek](image.md)
+![Obrazek](image.png)
 
 ## Co możesz zrobić:
 - [Przeczytać więcej o projekcie](more.md)
