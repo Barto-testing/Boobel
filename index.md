@@ -3,6 +3,12 @@ layout: default
 ---
 
 # Boobel!
+<style>
+  .github-repo {
+    display: none;
+  }
+</style>
+
 
 <style>
 body {
@@ -43,8 +49,3 @@ Skontaktuj się z nami na [boobel@example.com](mailto:boobel@example.com).
 
 ![Obrazek](https://via.placeholder.com/150)
 
-<style>
-  .github-repo {
-    display: none;
-  }
-</style>
