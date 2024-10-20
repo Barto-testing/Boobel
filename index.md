@@ -35,7 +35,7 @@ Każdy produkt jest nie tylko praktyczny, ale również opowiada historię – o
 ![Obrazek](Image.png)
 
 ## Co możesz zrobić:
-- [Przeczytać więcej o projekcie](more.md)
+- [Przeczytać więcej o założycielce](more.md)
 - [Śledzić nas w mediach społecznościowych](https://www.instagram.com/boobelbyvanessa/?locale=es_ES)
 
 ## Kontakt
