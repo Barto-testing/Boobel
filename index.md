@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Boobel
+# Boobel!
 
 <style>
 body {
