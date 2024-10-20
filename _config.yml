@@ -1,9 +1,3 @@
-# Podstawowe ustawienia strony
-title: "Boobel Shop"
-description: "Ręcznie robione torebki od Vanessy"
-baseurl: "" # Zostaw puste, jeśli strona jest na głównym adresie
-
-
 theme: jekyll-theme-cayman
 
 
