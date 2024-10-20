@@ -1,1 +1,20 @@
-theme: jekyll-theme-leap-day
+# Podstawowe ustawienia strony
+title: "Boobel Shop"
+description: "Ręcznie robione torebki od Vanessy"
+baseurl: "" # Zostaw puste, jeśli strona jest na głównym adresie
+url: "https://TwojaNazwaUzytkownika.github.io" # Adres URL Twojej strony
+
+
+theme: jekyll-theme-cayman
+
+
+author:
+  name: "Vanessa"
+  email: "boobel@example.com"
+
+# Medialne społecznościowe (opcjonalnie)
+social:
+  instagram: "https://instagram.com/boobelbyvanessa"
+  facebook: "https://facebook.com/boobelbags"
+
+
