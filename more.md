@@ -24,3 +24,5 @@ Jej piękno i elegancja doskonale oddają ducha marki Boobel – jest to połąc
 ---
 
 Zapraszamy do obejrzenia naszej najnowszej kolekcji torebek, która z pewnością podbije Twoje serce!
+
+![Obrazek](shrek.jpg)
