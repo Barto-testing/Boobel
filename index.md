@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Cześć, pod tym adresem będzie znajdować się strona Boobel.
+# Boobel
 
 <style>
 h1 {
