@@ -21,6 +21,3 @@
     <h1>Cześć, pod tym adresem będzie znajdować się strona Boobel.</h1>
 </body>
 </html>
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
