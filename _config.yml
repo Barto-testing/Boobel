@@ -2,7 +2,7 @@
 title: "Boobel Shop"
 description: "Ręcznie robione torebki od Vanessy"
 baseurl: "" # Zostaw puste, jeśli strona jest na głównym adresie
-url: "https://TwojaNazwaUzytkownika.github.io" # Adres URL Twojej strony
+
 
 theme: jekyll-theme-leap-day
 
