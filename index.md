@@ -11,7 +11,7 @@ h1 {
 </style>
 
 ## O projekcie
-Tutaj znajdziesz informacje o projekcie **Boobel**.
+Boobel jest świerzą marką tworzoną przez pełną untuzjazmu młodą kobietę o imieniu Vanessa.
 
 ## Co możesz zrobić:
 - Przeczytać więcej o projekcie.
