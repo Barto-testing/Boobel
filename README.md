@@ -13,7 +13,7 @@
             height: 100vh;
         }
         h1 {
-            color: pink; /* lub #FF69B4 dla mocniejszego odcienia różu */
+            color: #FF69B4
         }
     </style>
 </head>
