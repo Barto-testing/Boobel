@@ -8,7 +8,7 @@ layout: default
 
 <style>
 body {
-    background-color: 	FFCCFF;
+    background-color: 	#FFCCFF;
     font-family: 'Arial', sans-serif;
 }
 
@@ -23,7 +23,7 @@ p {
 }
 
 h1 {
-    color: pink;
+
 }
 </style>
 
